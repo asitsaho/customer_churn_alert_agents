@@ -1,0 +1,94 @@
+{
+  "review_signals": [
+    {
+      "user_id": 8,
+      "full_name": "Devraj Verma",
+      "signal_type": "NO_REVIEW",
+      "review_count": 0,
+      "delivered_orders_without_review": 2,
+      "average_rating": null,
+      "worst_rating": null,
+      "worst_review_text": null
+    },
+    {
+      "user_id": 11,
+      "full_name": "Varun Joshi",
+      "signal_type": "MIXED",
+      "review_count": 4,
+      "delivered_orders_without_review": 6,
+      "average_rating": 4.25,
+      "worst_rating": 4,
+      "worst_review_text": "Fresh and well packed."
+    },
+    {
+      "user_id": 17,
+      "full_name": "Karan Menon",
+      "signal_type": "LOW_RATING",
+      "review_count": 5,
+      "delivered_orders_without_review": 14,
+      "average_rating": 4.2,
+      "worst_rating": 1,
+      "worst_review_text": "Wrong item delivered."
+    },
+    {
+      "user_id": 19,
+      "full_name": "Nisha Gupta",
+      "signal_type": "NONE",
+      "review_count": 0,
+      "delivered_orders_without_review": 0,
+      "average_rating": null,
+      "worst_rating": null,
+      "worst_review_text": null
+    },
+    {
+      "user_id": 21,
+      "full_name": "Nikhil Singh",
+      "signal_type": "MIXED",
+      "review_count": 3,
+      "delivered_orders_without_review": 6,
+      "average_rating": 4.0,
+      "worst_rating": 3,
+      "worst_review_text": "It was okay, nothing special."
+    },
+    {
+      "user_id": 31,
+      "full_name": "Arjun Kapoor",
+      "signal_type": "MIXED",
+      "review_count": 3,
+      "delivered_orders_without_review": 5,
+      "average_rating": 4.333333333333333,
+      "worst_rating": 4,
+      "worst_review_text": "Good quality, minor delay."
+    },
+    {
+      "user_id": 33,
+      "full_name": "Devraj Sharma",
+      "signal_type": "LOW_RATING",
+      "review_count": 2,
+      "delivered_orders_without_review": 7,
+      "average_rating": 3.5,
+      "worst_rating": 2,
+      "worst_review_text": "Packet was leaking."
+    },
+    {
+      "user_id": 41,
+      "full_name": "Sanjay Bose",
+      "signal_type": "NONE",
+      "review_count": 1,
+      "delivered_orders_without_review": 3,
+      "average_rating": 5.0,
+      "worst_rating": 5,
+      "worst_review_text": "Fresh and delivered super fast."
+    },
+    {
+      "user_id": 42,
+      "full_name": "Sameer Gupta",
+      "signal_type": "MIXED",
+      "review_count": 5,
+      "delivered_orders_without_review": 10,
+      "average_rating": 4.4,
+      "worst_rating": 4,
+      "worst_review_text": "Fresh and well packed."
+    }
+  ]
+}

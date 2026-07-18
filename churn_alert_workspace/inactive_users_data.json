@@ -1,0 +1,11 @@
+[
+  {"account_status": "ACTIVE", "city": "Chennai", "days_inactive": 18, "email": "devraj.verma4@example.com", "full_name": "Devraj Verma", "inactivity_signal": "BOTH", "last_login_at": "2026-06-30 07:36:22", "last_order_at": "2026-06-24 21:18:40", "user_id": 8},
+  {"account_status": "ACTIVE", "city": "Gurugram", "days_inactive": 35, "email": "varun.joshi7@example.com", "full_name": "Varun Joshi", "inactivity_signal": "BOTH", "last_login_at": "2026-06-13 19:53:01", "last_order_at": "2026-06-12 20:27:21", "user_id": 11},
+  {"account_status": "ACTIVE", "city": "Hyderabad", "days_inactive": 28, "email": "karan.menon13@example.com", "full_name": "Karan Menon", "inactivity_signal": "BOTH", "last_login_at": "2026-06-20 20:23:26", "last_order_at": "2026-06-19 15:07:50", "user_id": 17},
+  {"account_status": "ACTIVE", "city": "Mumbai", "days_inactive": 46, "email": "nisha.gupta15@example.com", "full_name": "Nisha Gupta", "inactivity_signal": "BOTH", "last_login_at": null, "last_order_at": null, "user_id": 19},
+  {"account_status": "ACTIVE", "city": "Gurugram", "days_inactive": 27, "email": "nikhil.singh17@example.com", "full_name": "Nikhil Singh", "inactivity_signal": "BOTH", "last_login_at": "2026-07-10 23:45:10", "last_order_at": "2026-06-21 22:05:36", "user_id": 21},
+  {"account_status": "ACTIVE", "city": "Pune", "days_inactive": 22, "email": "arjun.kapoor27@example.com", "full_name": "Arjun Kapoor", "inactivity_signal": "BOTH", "last_login_at": "2026-06-26 14:46:03", "last_order_at": "2026-06-26 22:28:22", "user_id": 31},
+  {"account_status": "ACTIVE", "city": "Bengaluru", "days_inactive": 58, "email": "devraj.sharma29@example.com", "full_name": "Devraj Sharma", "inactivity_signal": "BOTH", "last_login_at": "2026-05-21 19:40:30", "last_order_at": "2026-05-21 23:38:47", "user_id": 33},
+  {"account_status": "ACTIVE", "city": "Kolkata", "days_inactive": 60, "email": "sanjay.bose37@example.com", "full_name": "Sanjay Bose", "inactivity_signal": "BOTH", "last_login_at": "2026-05-19 22:29:26", "last_order_at": "2026-05-19 15:55:15", "user_id": 41},
+  {"account_status": "ACTIVE", "city": "Delhi", "days_inactive": 14, "email": "sameer.gupta38@example.com", "full_name": "Sameer Gupta", "inactivity_signal": "BOTH", "last_login_at": "2026-07-04 10:02:34", "last_order_at": "2026-07-04 10:45:33", "user_id": 42}
+]

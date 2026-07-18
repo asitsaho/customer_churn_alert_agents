@@ -1,0 +1,11 @@
+[
+  {"average_rating": null, "delivered_orders_without_review": 2, "full_name": "Devraj Verma", "review_count": 0, "signal_type": "NO_REVIEW", "user_id": 8, "worst_rating": null, "worst_review_text": null},
+  {"average_rating": 4.25, "delivered_orders_without_review": 6, "full_name": "Varun Joshi", "review_count": 4, "signal_type": "MIXED", "user_id": 11, "worst_rating": 4, "worst_review_text": "Fresh and well packed."},
+  {"average_rating": 4.2, "delivered_orders_without_review": 14, "full_name": "Karan Menon", "review_count": 5, "signal_type": "LOW_RATING", "user_id": 17, "worst_rating": 1, "worst_review_text": "Wrong item delivered."},
+  {"average_rating": null, "delivered_orders_without_review": 0, "full_name": "Nisha Gupta", "review_count": 0, "signal_type": "NONE", "user_id": 19, "worst_rating": null, "worst_review_text": null},
+  {"average_rating": 4.0, "delivered_orders_without_review": 6, "full_name": "Nikhil Singh", "review_count": 3, "signal_type": "MIXED", "user_id": 21, "worst_rating": 3, "worst_review_text": "It was okay, nothing special."},
+  {"average_rating": 4.33333333333333, "delivered_orders_without_review": 5, "full_name": "Arjun Kapoor", "review_count": 3, "signal_type": "MIXED", "user_id": 31, "worst_rating": 4, "worst_review_text": "Good quality, minor delay."},
+  {"average_rating": 3.5, "delivered_orders_without_review": 7, "full_name": "Devraj Sharma", "review_count": 2, "signal_type": "LOW_RATING", "user_id": 33, "worst_rating": 2, "worst_review_text": "Packet was leaking."},
+  {"average_rating": 5.0, "delivered_orders_without_review": 3, "full_name": "Sanjay Bose", "review_count": 1, "signal_type": "NONE", "user_id": 41, "worst_rating": 5, "worst_review_text": "Fresh and delivered super fast."},
+  {"average_rating": 4.4, "delivered_orders_without_review": 10, "full_name": "Sameer Gupta", "review_count": 5, "signal_type": "MIXED", "user_id": 42, "worst_rating": 4, "worst_review_text": "Fresh and well packed."}
+]
