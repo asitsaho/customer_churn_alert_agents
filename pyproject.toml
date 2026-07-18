@@ -1,0 +1,10 @@
+[project]
+name = "customer-churn-alert-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "deepagents>=0.6.12",
+    "langchain-google-genai>=4.2.7",
+]
