@@ -1,0 +1,146 @@
+{
+  "user_reports": [
+    {
+      "user_id": 8,
+      "full_name": "Devraj Verma",
+      "has_tickets": false,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": []
+    },
+    {
+      "user_id": 11,
+      "full_name": "Varun Joshi",
+      "has_tickets": true,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": [
+        {
+          "ticket_id": 16,
+          "subject": "Order issue with my delivery",
+          "category": "ORDER_ISSUE",
+          "priority": "LOW",
+          "status": "RESOLVED",
+          "created_at": "2026-06-13 07:22:30",
+          "churn_relevance": "LOW",
+          "rationale": "Ticket resolved, low priority.",
+          "resolved_at": "2026-06-14 15:22:30"
+        }
+      ]
+    },
+    {
+      "user_id": 17,
+      "full_name": "Karan Menon",
+      "has_tickets": true,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": [
+        {
+          "ticket_id": 17,
+          "subject": "General query",
+          "category": "OTHER",
+          "priority": "LOW",
+          "status": "RESOLVED",
+          "created_at": "2026-06-14 08:55:10",
+          "churn_relevance": "LOW",
+          "rationale": "Ticket resolved, low priority.",
+          "resolved_at": "2026-06-14 13:55:10"
+        },
+        {
+          "ticket_id": 12,
+          "subject": "Payment deducted but order not placed",
+          "category": "PAYMENT",
+          "priority": "MEDIUM",
+          "status": "RESOLVED",
+          "created_at": "2026-06-07 09:03:24",
+          "churn_relevance": "MEDIUM",
+          "rationale": "Unresolved medium priority.",
+          "resolved_at": "2026-06-08 19:03:24"
+        }
+      ]
+    },
+    {
+      "user_id": 19,
+      "full_name": "Nisha Gupta",
+      "has_tickets": false,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": []
+    },
+    {
+      "user_id": 21,
+      "full_name": "Nikhil Singh",
+      "has_tickets": false,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": []
+    },
+    {
+      "user_id": 31,
+      "full_name": "Arjun Kapoor",
+      "has_tickets": true,
+      "unresolved_ticket_count": 1,
+      "churn_linked_ticket_flag": false,
+      "tickets": [
+        {
+          "ticket_id": 8,
+          "subject": "App crashing",
+          "category": "APP_ISSUE",
+          "priority": "LOW",
+          "status": "OPEN",
+          "created_at": "2026-05-20 11:40:01",
+          "churn_relevance": "LOW",
+          "rationale": "Ticket is low priority and doesn't meet HIGH/MEDIUM criteria.",
+          "resolved_at": null
+        },
+        {
+          "ticket_id": 6,
+          "subject": "General query",
+          "category": "OTHER",
+          "priority": "MEDIUM",
+          "status": "RESOLVED",
+          "created_at": "2026-05-18 18:27:39",
+          "churn_relevance": "LOW",
+          "rationale": "Ticket resolved, was not high priority.",
+          "resolved_at": "2026-05-20 00:27:39"
+        }
+      ]
+    },
+    {
+      "user_id": 33,
+      "full_name": "Devraj Sharma",
+      "has_tickets": false,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": []
+    },
+    {
+      "user_id": 41,
+      "full_name": "Sanjay Bose",
+      "has_tickets": false,
+      "unresolved_ticket_count": 0,
+      "churn_linked_ticket_flag": false,
+      "tickets": []
+    },
+    {
+      "user_id": 42,
+      "full_name": "Sameer Gupta",
+      "has_tickets": true,
+      "unresolved_ticket_count": 1,
+      "churn_linked_ticket_flag": false,
+      "tickets": [
+        {
+          "ticket_id": 20,
+          "subject": "App crashing",
+          "category": "APP_ISSUE",
+          "priority": "LOW",
+          "status": "WAITING_ON_CUSTOMER",
+          "created_at": "2026-06-14 13:24:40",
+          "churn_relevance": "LOW",
+          "rationale": "Ticket is low priority and doesn't meet HIGH/MEDIUM criteria.",
+          "resolved_at": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "user_id": 8,
+    "full_name": "Devraj Verma",
+    "email": "devraj.verma4@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 18,
+    "inactivity_signal": "BOTH",
+    "city": "Chennai",
+    "last_login_at": "2026-06-30 07:36:22",
+    "last_order_at": "2026-06-24 21:18:40"
+  },
+  {
+    "user_id": 11,
+    "full_name": "Varun Joshi",
+    "email": "varun.joshi7@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 35,
+    "inactivity_signal": "BOTH",
+    "city": "Gurugram",
+    "last_login_at": "2026-06-13 19:53:01",
+    "last_order_at": "2026-06-12 20:27:21"
+  },
+  {
+    "user_id": 17,
+    "full_name": "Karan Menon",
+    "email": "karan.menon13@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 28,
+    "inactivity_signal": "BOTH",
+    "city": "Hyderabad",
+    "last_login_at": "2026-06-20 20:23:26",
+    "last_order_at": "2026-06-19 15:07:50"
+  },
+  {
+    "user_id": 19,
+    "full_name": "Nisha Gupta",
+    "email": "nisha.gupta15@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 46,
+    "inactivity_signal": "BOTH",
+    "city": "Mumbai",
+    "last_login_at": null,
+    "last_order_at": null
+  },
+  {
+    "user_id": 21,
+    "full_name": "Nikhil Singh",
+    "email": "nikhil.singh17@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 27,
+    "inactivity_signal": "BOTH",
+    "city": "Gurugram",
+    "last_login_at": "2026-07-10 23:45:10",
+    "last_order_at": "2026-06-21 22:05:36"
+  },
+  {
+    "user_id": 31,
+    "full_name": "Arjun Kapoor",
+    "email": "arjun.kapoor27@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 22,
+    "inactivity_signal": "BOTH",
+    "city": "Pune",
+    "last_login_at": "2026-06-26 14:46:03",
+    "last_order_at": "2026-06-26 22:28:22"
+  },
+  {
+    "user_id": 33,
+    "full_name": "Devraj Sharma",
+    "email": "devraj.sharma29@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 58,
+    "inactivity_signal": "BOTH",
+    "city": "Bengaluru",
+    "last_login_at": "2026-05-21 19:40:30",
+    "last_order_at": "2026-05-21 23:38:47"
+  },
+  {
+    "user_id": 41,
+    "full_name": "Sanjay Bose",
+    "email": "sanjay.bose37@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 60,
+    "inactivity_signal": "BOTH",
+    "city": "Kolkata",
+    "last_login_at": "2026-05-19 22:29:26",
+    "last_order_at": "2026-05-19 15:55:15"
+  },
+  {
+    "user_id": 42,
+    "full_name": "Sameer Gupta",
+    "email": "sameer.gupta38@example.com",
+    "account_status": "ACTIVE",
+    "days_inactive": 14,
+    "inactivity_signal": "BOTH",
+    "city": "Delhi",
+    "last_login_at": "2026-07-04 10:02:34",
+    "last_order_at": "2026-07-04 10:45:33"
+  }
+]

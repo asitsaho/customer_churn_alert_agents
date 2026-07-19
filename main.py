@@ -1,5 +1,5 @@
 def main():
-    print("Hello from customer-churn-alert-agent!")
+    print("Hello from customer-chrun-alert-agent!")
 
 
 if __name__ == "__main__":
